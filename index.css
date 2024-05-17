@@ -1,0 +1,15 @@
+/* add some basic card styling (borders) */
+
+.parties{
+    border: 5px solid rgb(6, 2, 0);
+    border-width: 10px;
+}
+
+.card{
+    border: 5px solid rgb(106, 30, 0);
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(246, 193, 124);
+    margin: 5px;
+}
